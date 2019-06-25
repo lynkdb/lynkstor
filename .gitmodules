@@ -1,0 +1,6 @@
+[submodule "deps/cjet"]
+	path = deps/cjet
+	url = git@github.com:hooto/cjet.git
+[submodule "deps/hrpc"]
+	path = deps/hrpc
+	url = git@github.com:hooto/hrpc.git
